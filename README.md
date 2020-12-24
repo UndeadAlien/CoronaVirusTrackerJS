@@ -18,7 +18,7 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Live <a href="">demo</a>
+Live <a href="https://covid-tracker-js.web.app">demo</a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
