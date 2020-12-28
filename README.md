@@ -22,6 +22,7 @@ Live <a href="https://covid-tracker-js.web.app">demo</a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
+- [MaterialUI](https://material.io/) - UI
 - [Firebase](https://www.google.firebase.com/) - Hosting
 - [ReactJs](https://reactjs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment

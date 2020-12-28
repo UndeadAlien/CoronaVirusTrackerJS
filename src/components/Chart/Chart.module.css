@@ -2,6 +2,9 @@
     display: flex;
     justify-content: center;
     width: 65%;
+
+    border: 1px solid black;
+    margin: auto;
   }
   
   @media only screen and (max-width: 770px) {
